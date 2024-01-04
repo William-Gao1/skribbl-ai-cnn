@@ -1,0 +1,14 @@
+# trained models
+*.model
+*.tflite
+*.h5
+
+# gcp service account key
+*.json
+
+# python stuff
+__pycache__
+.venv
+
+# slurm 
+*.out
